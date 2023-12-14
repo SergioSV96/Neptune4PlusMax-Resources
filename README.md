@@ -4,19 +4,19 @@ Welcome to the ELEGOO Neptune 4 Plus and Max Series Resource Collection! This re
 
 ## Contents
 
-1. **Firmware and Tutorials**
+- **Firmware and Tutorials**
    - Community-made firmware and software versions for ELEGOO Neptune 4 Plus and Max models.
    - Step-by-step tutorials created by the community for installation, configuration, and calibration.
 
-2. **Slicer Profiles**
+- **Slicer Profiles**
    - Optimized profiles for popular slicers like Cura, OrcaSlicer, and PrusaSlicer.
    - Fine-tuned settings for the best printing experience on ELEGOO Neptune 4 Plus and Max series printers.
 
-3. **Mods and Upgrades**
+- **Mods and Upgrades**
    - Enhance your printer with 3D printed parts and modifications.
    - Share and discover innovative mods that improve different aspects of the printer.
 
-4. **Software Enhancements**
+- **Software Enhancements**
    - Explore plugins and software enhancements for the Neptune 4 Plus and Max's.
    - Discover slicer plugins and additional tools to optimize your 3D printing workflow.
 
